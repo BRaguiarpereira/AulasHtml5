@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24 de mai. de 2021, 10:18:40
+    Author     : brian
+*/
+body{
+    font-family: arial , sans-serif;
+    background-color: #ccc;
+    margin: 0;
+}
+.hero{
+    height: 500px;
+    background-image: url(../imagens/bg-3.jpg);
+    background-position: right center;
+    background-size: cover;
+}
+.hero-content{
+    text-align: center;
+    color: #fff;
+    margin-top: 150px;
+    
+}
+.hero-content h1{
+    text-transform: uppercase;
+    font-size: 46px;
+    text-shadow: 3px 3px 2px #333;
+    
+}
+main{
+    width:  80%;
+    margin:  auto;
+}
+.content-card{
+    background-color: #fff;
+    padding: 15px;
+    margin-top: 15px;
+}
